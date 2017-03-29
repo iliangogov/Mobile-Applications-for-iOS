@@ -8,7 +8,7 @@ The **"Mobile applications for iOS"** course introduce the fundamental and advan
 
 ### Introduction
 
-1.  Course introduction
+1.  Course introduction:
 
 ### Swift and Objective-C Core
 
